@@ -1,0 +1,12 @@
+{
+  "name": "samp-launcher-api",
+  "version": "1.0.0",
+  "description": "API para launcher SA-MP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
